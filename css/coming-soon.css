@@ -1,5 +1,6 @@
 @import url(http://fonts.googleapis.com/css?family=Montserrat);
 @import url(http://fonts.googleapis.com/css?family=Open+Sans:400,700);
+@import url(https://fonts.googleapis.com/css?family=Patrick+Hand);
 
 
 h1 {
@@ -16,6 +17,7 @@ h1 {
 #title {
 	color: red;
 	margin-top: -15%;
+	font-family: 'Patrick Hand', sans-serif;
 }
 
 #logo {
