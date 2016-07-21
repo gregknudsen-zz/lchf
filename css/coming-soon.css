@@ -28,6 +28,10 @@ h1 {
 	width: 10%;
 }
 
+h1:hover {
+	color: red;
+}
+
 p {
   font-family: 'Open Sans', sans-serif;
   font-size: 1.4em;
