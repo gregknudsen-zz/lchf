@@ -14,17 +14,17 @@ h1 {
   word-spacing: 16px;
 }
 
-#title {
+.title {
 	color: red;
 	/*margin-top: -15%;*/
 	font-family: 'Patrick Hand', sans-serif;
 }
 
-#logo {
+.logo {
 	width: 90%;
 }
 
-#smiley {
+.smiley {
 	width: 10%;
 }
 
